@@ -1,1 +1,0 @@
-# EMG-Claw-Arduino-Uno
