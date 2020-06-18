@@ -1,4 +1,4 @@
 ## EMG-Arduino-Claw
 Date: 5/1/2020
 
-# Overview: This software was built using Arduino IDE for an online project of creating an EMG Claw. 
+Overview: This software was built using Arduino IDE for an online project of creating an EMG Claw. 
